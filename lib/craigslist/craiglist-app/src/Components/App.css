@@ -1,0 +1,59 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5%;
+  background-color: #444444;
+  color: white;
+}
+
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  align-items: center;
+}
+
+.Post {
+  height: 2.5em;
+  border: 1px solid white;
+  background-color: #444444;
+  color: white;
+}
+
+.ResultsHeader {
+  margin-left: 5%;
+}
+
+.Breadcrumbs {
+  margin-top: 50px;
+}
+
+#Line {
+  border-bottom: 2px solid lightgray;
+  margin-right: 5%;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 350px;
+  height: 350px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.imageContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 90%;
+  margin-left: 5%;
+}
+
+#Caption {
+  display: flex;
+  border: solid lightgray;
+  border-top: transparent;
+  justify-content: space-between;
+  padding: 15px;
+  margin-top: 0;
+}
