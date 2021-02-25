@@ -18,6 +18,8 @@
   border: 1px solid white;
   background-color: #444444;
   color: white;
+  font-weight: bolder;
+  font-size: 1em;
 }
 
 .ResultsHeader {
@@ -56,4 +58,15 @@ img {
   justify-content: space-between;
   padding: 15px;
   margin-top: 0;
+}
+
+span {
+  padding: 5px 15px;
+  background-color: #444444;
+  color: white;
+  width: 40px;
+}
+
+#title {
+  padding-top: 6px;
 }
